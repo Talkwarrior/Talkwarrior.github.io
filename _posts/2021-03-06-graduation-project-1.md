@@ -9,7 +9,7 @@ categories: 졸업논문
 
 작년에 작성한 논문으로 졸업논문 심사는 면제되었지만, 졸업논문을 작성하는 것은 변함이 없으므로 이 프로젝트를 졸업작품으로 활용하기로 하였다.
 
-~~ 그냥 정수기를 만들어보고 싶은 건 아닐까 ~~
-~~ 연구노트 쓰기 귀찮아서 블로그 올린건 아닐까 ~~
+~~그냥 정수기를 만들어보고 싶은 건 아닐까~~
+~~연구노트 쓰기 귀찮아서 블로그 올린건 아닐까~~
 
 [레딧의 한 포스트]: https://www.reddit.com/r/raspberry_pi/comments/llgzqs/i_built_an_automatic_water_dispenser_to_fill_my/?utm_source=share&utm_medium=web2x&context=3
