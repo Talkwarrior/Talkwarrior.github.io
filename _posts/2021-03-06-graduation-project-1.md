@@ -3,8 +3,13 @@ title: "졸업논문: 컵 용량에 적응하는 정수기 만들기"
 date: 2021-03-06 13:14:42 -0400
 categories: 졸업논문
 ---
-[original_idea]를 보고, 어떤 컵을 놓던지 컵 용량에 알맞은 물을 따라주는 정수기를 만들고 싶어졌다.
+[레딧의 한 포스트]를 보고, 어떤 컵을 놓던지 컵 용량에 알맞은 물을 따라주는 정수기를 만들고 싶어졌다. 위 포스트에는 컵을 올려놓고, 버튼을 누르면 물을 따라주는 간단한 프로젝트가 소개되어 있다. 내용상 자동으로 양을 맞춰주는 것처럼 보이지만, 실제로는 타이머를 이용해 일정 시간 동안만 물을 흘리는 원리이다(버튼마다 시간이 정해져 있다고 한다).
 
+만일 타이머를 사용하지 않는다면, 물을 채울 때 발생하는 소리/ 거리 센서를 통해 얻은 수위/ 무게 정보 등등을 조합해 구현할 수 있을 것이란 생각이 들었다. 여기에 작년에 배운 펌웨어 업데이트 기능도 추가하면 훌륭한 프로젝트가 될 것이다.
 
+작년에 작성한 논문으로 졸업논문 심사는 면제되었지만, 졸업논문을 작성하는 것은 변함이 없으므로 이 프로젝트를 졸업작품으로 활용하기로 하였다.
 
-[original_idea]: https://www.reddit.com/r/raspberry_pi/comments/llgzqs/i_built_an_automatic_water_dispenser_to_fill_my/?utm_source=share&utm_medium=web2x&context=3
+~~ 그냥 정수기를 만들어보고 싶은 건 아닐까 ~~
+~~ 연구노트 쓰기 귀찮아서 블로그 올린건 아닐까 ~~
+
+[레딧의 한 포스트]: https://www.reddit.com/r/raspberry_pi/comments/llgzqs/i_built_an_automatic_water_dispenser_to_fill_my/?utm_source=share&utm_medium=web2x&context=3
